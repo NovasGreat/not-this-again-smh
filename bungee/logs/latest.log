@@ -1,0 +1,400 @@
+[18:57:09] [main/INFO]: Using mbed TLS based native cipher.
+[18:57:09] [main/INFO]: Using zlib based native compressor.
+[18:57:09] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.19-R0.1-SNAPSHOT:13085b9:510
+[18:57:10] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
+[18:57:10] [main/INFO]: Epoll is working, utilising it!
+[18:57:11] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+[18:57:11] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+[18:57:11] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+[18:57:11] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+[18:57:11] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+[18:57:11] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+[18:57:12] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[18:57:12] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[18:57:12] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[18:57:12] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[18:57:12] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[18:57:12] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[18:57:13] [main/INFO] [EaglercraftXBungee]: Loading vanilla profile: lax1dude
+[18:57:19] [main/WARN] [EaglercraftXBungee]: Profile load timed out
+[18:57:19] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.0.4 by lax1dude
+[18:57:20] [main/WARN]: Forced host server pvp is not defined
+[18:57:20] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[18:57:20] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[18:57:20] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[18:57:20] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[18:57:20] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[18:57:20] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[18:57:21] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
+[18:57:21] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
+[18:57:23] [Netty Worker IO Thread #0/WARN] [EaglercraftXBungee]: Server icon is not a file: /home/runner/salogenx-v2/bungee/server-icon.png
+[18:57:23] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:58462]: Connected via websocket
+[18:57:23] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:58462]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[18:57:23] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:55502]: Connected via websocket
+[18:57:23] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:55502]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[18:57:23] [Skin Download Thread #1/INFO] [EaglercraftXBungee]: Loaded vanilla profile: lax1dude
+[18:57:24] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:55502]: Logged in as 'yourmother'
+[18:57:24] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:58462]: Logged in as 'jax_is_the_best'
+[18:57:24] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:58462|jax_is_the_best] -> UpstreamBridge has connected
+[18:57:24] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:55502|yourmother] -> UpstreamBridge has connected
+[18:57:24] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[18:57:25] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.4 by lax1dude
+[18:57:25] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
+[18:57:26] [Netty Worker IO Thread #1/WARN]: Event LoginEvent(cancelled=false, cancelReasonComponents=null, loginResult=null, connection=[/172.31.128.1:55502|yourmother] <-> InitialHandler) took 2,306ms to process!
+[18:57:26] [Netty Worker IO Thread #1/WARN]: Event PreLoginEvent(cancelled=false, cancelReasonComponents=null, connection=[/172.31.128.1:55502|yourmother] <-> InitialHandler) took 2,334ms to process!
+[18:57:26] [Netty Worker IO Thread #1/WARN]: Error occurred processing connection for yourmother AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[18:57:26] [Netty Worker IO Thread #1/INFO]: [yourmother] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[18:57:26] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:55502|yourmother] -> UpstreamBridge has disconnected
+[18:57:26] [Netty Worker IO Thread #0/WARN]: Event LoginEvent(cancelled=false, cancelReasonComponents=null, loginResult=null, connection=[/172.31.128.1:58462|jax_is_the_best] <-> InitialHandler) took 2,123ms to process!
+[18:57:26] [Netty Worker IO Thread #0/WARN]: Event PreLoginEvent(cancelled=false, cancelReasonComponents=null, connection=[/172.31.128.1:58462|jax_is_the_best] <-> InitialHandler) took 2,123ms to process!
+[18:57:26] [Netty Worker IO Thread #0/WARN]: Error occurred processing connection for jax_is_the_best AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[18:57:26] [Netty Worker IO Thread #0/INFO]: [jax_is_the_best] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[18:57:26] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:58462|jax_is_the_best] -> UpstreamBridge has disconnected
+[18:57:29] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:43630]: Connected via websocket
+[18:57:29] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:43630]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[18:57:30] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:43630]: Logged in as 'yourmother'
+[18:57:30] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:43630|yourmother] -> UpstreamBridge has connected
+[18:57:30] [Netty Worker IO Thread #1/WARN]: Error occurred processing connection for yourmother AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[18:57:30] [Netty Worker IO Thread #1/INFO]: [yourmother] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[18:57:30] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:43630|yourmother] -> UpstreamBridge has disconnected
+[18:57:34] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:51336]: Connected via websocket
+[18:57:34] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:51336]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[18:57:34] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:51336]: Logged in as 'yourmother'
+[18:57:34] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:51336|yourmother] -> UpstreamBridge has connected
+[18:57:34] [Netty Worker IO Thread #0/INFO]: [yourmother|/172.31.128.1:51336] <-> ServerConnector [lobby] has connected
+[18:57:42] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:55780]: Connected via websocket
+[18:57:42] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:55780]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[18:57:43] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:55780]: Logged in as 'Potato'
+[18:57:43] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:55780|Potato] -> UpstreamBridge has connected
+[18:57:43] [Netty Worker IO Thread #0/WARN]: Plugin listener net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.handlers.EaglerPacketEventListener took 62ms to process event PostLoginEvent(player=Potato)!
+[18:57:43] [Netty Worker IO Thread #0/INFO]: [Potato|/172.31.128.1:55780] <-> ServerConnector [lobby] has connected
+[18:57:49] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:51336|yourmother] -> UpstreamBridge has disconnected
+[18:57:54] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:49914]: Connected via websocket
+[18:57:54] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:49914]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[18:57:55] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:49914]: Logged in as 'yourmother'
+[18:57:55] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:49914|yourmother] -> UpstreamBridge has connected
+[18:57:55] [Netty Worker IO Thread #0/INFO]: [yourmother|/172.31.128.1:49914] <-> ServerConnector [lobby] has connected
+[18:57:58] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:55780|Potato] -> UpstreamBridge has disconnected
+[18:58:04] [Netty Worker IO Thread #0/WARN]: [yourmother|/172.31.128.1:51336] <-> ServerConnector [lobby] - read timed out
+[18:58:04] [Netty Worker IO Thread #0/INFO]: [yourmother] disconnected with: Exception Connecting:ReadTimeoutException : null
+[18:58:04] [Netty Worker IO Thread #0/INFO]: [yourmother|/172.31.128.1:51336] <-> ServerConnector [lobby] has disconnected
+[18:58:09] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:49914|yourmother] -> UpstreamBridge has disconnected
+[18:58:13] [Netty Worker IO Thread #0/WARN]: [Potato|/172.31.128.1:55780] <-> ServerConnector [lobby] - read timed out
+[18:58:13] [Netty Worker IO Thread #0/INFO]: [Potato] disconnected with: Exception Connecting:ReadTimeoutException : null
+[18:58:13] [Netty Worker IO Thread #0/INFO]: [Potato|/172.31.128.1:55780] <-> ServerConnector [lobby] has disconnected
+[18:58:13] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:53734]: Connected via websocket
+[18:58:13] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:53734]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[18:58:13] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:53734]: Logged in as 'yourmother'
+[18:58:13] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:53734|yourmother] -> UpstreamBridge has connected
+[18:58:13] [Netty Worker IO Thread #1/INFO]: [yourmother|/172.31.128.1:53734] <-> ServerConnector [lobby] has connected
+[18:58:25] [Netty Worker IO Thread #0/WARN]: [yourmother|/172.31.128.1:49914] <-> ServerConnector [lobby] - read timed out
+[18:58:25] [Netty Worker IO Thread #0/INFO]: [yourmother] disconnected with: Exception Connecting:ReadTimeoutException : null
+[18:58:25] [Netty Worker IO Thread #0/INFO]: [yourmother|/172.31.128.1:49914] <-> ServerConnector [lobby] has disconnected
+[18:58:28] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:53734|yourmother] -> UpstreamBridge has disconnected
+[18:58:30] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:58456]: Connected via websocket
+[18:58:30] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:58456]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[18:58:30] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:58456]: Logged in as 'Potato'
+[18:58:30] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:58456|Potato] -> UpstreamBridge has connected
+[18:58:30] [Netty Worker IO Thread #1/INFO]: [Potato|/172.31.128.1:58456] <-> ServerConnector [lobby] has connected
+[18:58:34] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:39800]: Connected via websocket
+[18:58:34] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:39800]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[18:58:34] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:39800]: Logged in as 'yourmother'
+[18:58:34] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:39800|yourmother] -> UpstreamBridge has connected
+[18:58:34] [Netty Worker IO Thread #0/INFO]: [yourmother|/172.31.128.1:39800] <-> ServerConnector [lobby] has connected
+[18:58:39] [Netty Worker IO Thread #0/INFO]: [yourmother] disconnected with: Kicked whilst connecting to lobby: The same username is already playing on the server!
+[18:58:39] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:39800|yourmother] -> UpstreamBridge has disconnected
+[18:58:39] [Netty Worker IO Thread #0/INFO]: [yourmother|/172.31.128.1:39800] <-> ServerConnector [lobby] has disconnected
+[18:58:43] [Netty Worker IO Thread #1/WARN]: Plugin listener net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.handlers.EaglerPacketEventListener took 75ms to process event PluginMessageEvent(super=TargetedEvent(sender=Potato, receiver=net.md_5.bungee.ServerConnection@7b2a61cb), cancelled=true, tag=EAG|Skins-1.8)!
+[18:58:53] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:37888]: Connected via websocket
+[18:58:53] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:37888]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[18:58:54] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:37888]: Logged in as 'yourmother1'
+[18:58:54] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:37888|yourmother1] -> UpstreamBridge has connected
+[18:58:54] [Netty Worker IO Thread #0/INFO]: [yourmother1|/172.31.128.1:37888] <-> ServerConnector [lobby] has connected
+[18:58:58] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:37888|yourmother1] -> UpstreamBridge has disconnected
+[18:58:58] [Netty Worker IO Thread #0/INFO]: [yourmother1] disconnected with: Proxy lost connection to server.
+[18:58:58] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:37888|yourmother1] <-> DownstreamBridge <-> [lobby] has disconnected
+[18:58:59] [Netty Worker IO Thread #1/INFO]: [yourmother] disconnected with: Proxy lost connection to server.
+[18:58:59] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:53734|yourmother] <-> DownstreamBridge <-> [lobby] has disconnected
+[18:59:05] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:53032]: Connected via websocket
+[18:59:05] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:53032]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[18:59:06] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:53032]: Logged in as 'yourmother'
+[18:59:06] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:53032|yourmother] -> UpstreamBridge has connected
+[18:59:06] [Netty Worker IO Thread #1/INFO]: [yourmother|/172.31.128.1:53032] <-> ServerConnector [lobby] has connected
+[18:59:53] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:33974]: Connected via websocket
+[18:59:53] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:33974]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[18:59:54] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:33974]: Logged in as 'novsa'
+[18:59:54] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:33974|novsa] -> UpstreamBridge has connected
+[18:59:54] [Netty Worker IO Thread #0/INFO]: [novsa|/172.31.128.1:33974] <-> ServerConnector [lobby] has connected
+[19:00:20] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:45664]: Connected via websocket
+[19:00:20] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:45664]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[19:00:20] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:45664]: Logged in as 'Cheese'
+[19:00:20] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:45664|Cheese] -> UpstreamBridge has connected
+[19:00:20] [Netty Worker IO Thread #0/INFO]: [Cheese|/172.31.128.1:45664] <-> ServerConnector [lobby] has connected
+[19:02:13] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:45664|Cheese] -> UpstreamBridge has disconnected
+[19:02:13] [Netty Worker IO Thread #0/INFO]: [Cheese] disconnected with: Proxy lost connection to server.
+[19:02:13] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:45664|Cheese] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:02:14] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:33974|novsa] -> UpstreamBridge has disconnected
+[19:02:14] [Netty Worker IO Thread #0/INFO]: [novsa] disconnected with: Proxy lost connection to server.
+[19:02:14] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:33974|novsa] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:02:46] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:57620]: Connected via websocket
+[19:02:46] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:57620]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[19:02:46] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:57620]: Logged in as 'Giga_Mooshamad'
+[19:02:46] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:57620|Giga_Mooshamad] -> UpstreamBridge has connected
+[19:02:46] [Netty Worker IO Thread #0/INFO]: [Giga_Mooshamad|/172.31.128.1:57620] <-> ServerConnector [lobby] has connected
+[19:04:27] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:53954]: Connected via websocket
+[19:04:27] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:53954]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[19:04:27] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:53954]: Logged in as 'garzaboi01'
+[19:04:27] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:53954|garzaboi01] -> UpstreamBridge has connected
+[19:04:27] [Netty Worker IO Thread #0/INFO]: [garzaboi01|/172.31.128.1:53954] <-> ServerConnector [lobby] has connected
+[19:05:02] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:45152]: Connected via websocket
+[19:05:02] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:45152]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[19:05:02] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:45152]: Logged in as 'novsa'
+[19:05:02] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:45152|novsa] -> UpstreamBridge has connected
+[19:05:03] [Netty Worker IO Thread #1/INFO]: [novsa|/172.31.128.1:45152] <-> ServerConnector [lobby] has connected
+[19:10:06] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:45152|novsa] -> UpstreamBridge has disconnected
+[19:10:06] [Netty Worker IO Thread #1/INFO]: [novsa] disconnected with: Proxy lost connection to server.
+[19:10:06] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:45152|novsa] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:12:19] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:46916]: Connected via websocket
+[19:12:19] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:46916]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[19:12:20] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:46916]: Logged in as 'Cheese'
+[19:12:20] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:46916|Cheese] -> UpstreamBridge has connected
+[19:12:20] [Netty Worker IO Thread #1/INFO]: [Cheese|/172.31.128.1:46916] <-> ServerConnector [lobby] has connected
+[19:21:12] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:53032|yourmother] -> UpstreamBridge has disconnected
+[19:21:12] [Netty Worker IO Thread #1/INFO]: [yourmother] disconnected with: Proxy lost connection to server.
+[19:21:12] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:53032|yourmother] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:22:44] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:56744]: Connected via websocket
+[19:22:44] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:56744]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[19:22:45] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:56744]: Logged in as 'jax_is_the_best'
+[19:22:45] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:56744|jax_is_the_best] -> UpstreamBridge has connected
+[19:22:45] [Netty Worker IO Thread #1/INFO]: [jax_is_the_best|/172.31.128.1:56744] <-> ServerConnector [lobby] has connected
+[19:23:16] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:57620|Giga_Mooshamad] -> UpstreamBridge has disconnected
+[19:23:16] [Netty Worker IO Thread #0/INFO]: [Giga_Mooshamad] disconnected with: Proxy lost connection to server.
+[19:23:16] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:57620|Giga_Mooshamad] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:23:40] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:58456|Potato] -> UpstreamBridge has disconnected
+[19:23:40] [Netty Worker IO Thread #1/INFO]: [Potato] disconnected with: Proxy lost connection to server.
+[19:23:40] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:58456|Potato] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:24:19] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:53954|garzaboi01] -> UpstreamBridge has disconnected
+[19:24:19] [Netty Worker IO Thread #0/INFO]: [garzaboi01] disconnected with: Proxy lost connection to server.
+[19:24:19] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:53954|garzaboi01] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:24:41] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:46916|Cheese] -> UpstreamBridge has disconnected
+[19:24:41] [Netty Worker IO Thread #1/INFO]: [Cheese] disconnected with: Proxy lost connection to server.
+[19:24:41] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:46916|Cheese] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:29:35] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:33174]: Connected via websocket
+[19:29:35] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:33174]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[19:29:35] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:33174]: Logged in as 'garzaboi01'
+[19:29:35] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:33174|garzaboi01] -> UpstreamBridge has connected
+[19:29:35] [Netty Worker IO Thread #1/INFO]: [garzaboi01|/172.31.128.1:33174] <-> ServerConnector [lobby] has connected
+[19:29:58] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:43198]: Connected via websocket
+[19:29:58] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:43198]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[19:29:58] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:43198]: Logged in as 'McCrafty_Chrome'
+[19:29:58] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:43198|McCrafty_Chrome] -> UpstreamBridge has connected
+[19:29:58] [Netty Worker IO Thread #1/INFO]: [McCrafty_Chrome|/172.31.128.1:43198] <-> ServerConnector [lobby] has connected
+[19:30:01] [Netty Worker IO Thread #1/WARN]: Plugin listener net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.handlers.EaglerPacketEventListener took 140ms to process event PluginMessageEvent(super=TargetedEvent(sender=garzaboi01, receiver=net.md_5.bungee.ServerConnection@4518121d), cancelled=true, tag=EAG|Skins-1.8)!
+[19:30:01] [Netty Worker IO Thread #1/WARN]: Plugin listener net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.handlers.EaglerPacketEventListener took 90ms to process event PluginMessageEvent(super=TargetedEvent(sender=garzaboi01, receiver=net.md_5.bungee.ServerConnection@4518121d), cancelled=true, tag=EAG|Skins-1.8)!
+[19:30:10] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:33174|garzaboi01] -> UpstreamBridge has disconnected
+[19:30:10] [Netty Worker IO Thread #1/INFO]: [garzaboi01] disconnected with: Proxy lost connection to server.
+[19:30:10] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:33174|garzaboi01] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:33:07] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:54168]: Connected via websocket
+[19:33:07] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:54168]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[19:33:07] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:54168]: Logged in as 'garzaboi01'
+[19:33:07] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:54168|garzaboi01] -> UpstreamBridge has connected
+[19:33:07] [Netty Worker IO Thread #0/INFO]: [garzaboi01|/172.31.128.1:54168] <-> ServerConnector [lobby] has connected
+[19:33:13] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:38098]: Connected via websocket
+[19:33:13] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:38098]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[19:33:14] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:38098]: Logged in as 'LillyPet0'
+[19:33:14] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:38098|LillyPet0] -> UpstreamBridge has connected
+[19:33:14] [Netty Worker IO Thread #0/INFO]: [LillyPet0|/172.31.128.1:38098] <-> ServerConnector [lobby] has connected
+[19:35:57] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:38098|LillyPet0] -> UpstreamBridge has disconnected
+[19:35:57] [Netty Worker IO Thread #0/INFO]: [LillyPet0] disconnected with: Proxy lost connection to server.
+[19:35:57] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:38098|LillyPet0] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:36:31] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:43752]: Connected via websocket
+[19:36:31] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:43752]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[19:36:47] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:40964]: Connected via websocket
+[19:36:47] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:40964]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[19:36:48] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:40964]: Logged in as 'Stormy14'
+[19:36:48] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:40964|Stormy14] -> UpstreamBridge has connected
+[19:36:48] [Netty Worker IO Thread #1/INFO]: [Stormy14|/172.31.128.1:40964] <-> ServerConnector [lobby] has connected
+[19:37:00] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:40964|Stormy14] -> UpstreamBridge has disconnected
+[19:37:00] [Netty Worker IO Thread #1/INFO]: [Stormy14] disconnected with: Proxy lost connection to server.
+[19:37:00] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:40964|Stormy14] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:37:15] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:37804]: Connected via websocket
+[19:37:15] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:37804]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[19:37:18] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:37804]: Logged in as 'Stormy14'
+[19:37:18] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:37804|Stormy14] -> UpstreamBridge has connected
+[19:37:18] [Netty Worker IO Thread #0/INFO]: [Stormy14|/172.31.128.1:37804] <-> ServerConnector [lobby] has connected
+[19:37:53] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:40972]: Connected via websocket
+[19:37:53] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:40972]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[19:37:53] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:40972]: Logged in as 'Benabram_'
+[19:37:53] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:40972|Benabram_] -> UpstreamBridge has connected
+[19:37:53] [Netty Worker IO Thread #0/INFO]: [Benabram_|/172.31.128.1:40972] <-> ServerConnector [lobby] has connected
+[19:38:41] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:37804|Stormy14] -> UpstreamBridge has disconnected
+[19:38:41] [Netty Worker IO Thread #0/INFO]: [Stormy14] disconnected with: Proxy lost connection to server.
+[19:38:41] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:37804|Stormy14] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:40:01] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:40972|Benabram_] -> UpstreamBridge has disconnected
+[19:40:01] [Netty Worker IO Thread #0/INFO]: [Benabram_] disconnected with: Proxy lost connection to server.
+[19:40:01] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:40972|Benabram_] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:40:26] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:43198|McCrafty_Chrome] -> UpstreamBridge has disconnected
+[19:40:26] [Netty Worker IO Thread #1/INFO]: [McCrafty_Chrome] disconnected with: Proxy lost connection to server.
+[19:40:26] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:43198|McCrafty_Chrome] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:40:35] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:40172]: Connected via websocket
+[19:40:35] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:40172]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[19:40:35] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:40172]: Logged in as 'McCrafty_Chrome'
+[19:40:35] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:40172|McCrafty_Chrome] -> UpstreamBridge has connected
+[19:40:35] [Netty Worker IO Thread #1/INFO]: [McCrafty_Chrome|/172.31.128.1:40172] <-> ServerConnector [lobby] has connected
+[19:41:12] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:56744|jax_is_the_best] -> UpstreamBridge has disconnected
+[19:41:12] [Netty Worker IO Thread #1/INFO]: [jax_is_the_best] disconnected with: Proxy lost connection to server.
+[19:41:12] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:56744|jax_is_the_best] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:41:17] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:54168|garzaboi01] -> UpstreamBridge has disconnected
+[19:41:17] [Netty Worker IO Thread #0/INFO]: [garzaboi01] disconnected with: Proxy lost connection to server.
+[19:41:17] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:54168|garzaboi01] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:41:34] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:60538]: Connected via websocket
+[19:41:34] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:60538]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[19:41:35] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:60538]: Logged in as 'Benabram__'
+[19:41:35] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:60538|Benabram__] -> UpstreamBridge has connected
+[19:41:35] [Netty Worker IO Thread #1/INFO]: [Benabram__|/172.31.128.1:60538] <-> ServerConnector [lobby] has connected
+[19:44:21] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:57038]: Connected via websocket
+[19:44:21] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:57038]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[19:44:21] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:57038]: Logged in as 'LillyPet0'
+[19:44:21] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:57038|LillyPet0] -> UpstreamBridge has connected
+[19:44:21] [Netty Worker IO Thread #1/INFO]: [LillyPet0|/172.31.128.1:57038] <-> ServerConnector [lobby] has connected
+[19:47:11] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:60538|Benabram__] -> UpstreamBridge has disconnected
+[19:47:11] [Netty Worker IO Thread #1/INFO]: [Benabram__] disconnected with: Proxy lost connection to server.
+[19:47:11] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:60538|Benabram__] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:47:42] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:42740]: Connected via websocket
+[19:47:42] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:42740]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[19:47:43] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:42740]: Logged in as 'Benabram__'
+[19:47:43] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:42740|Benabram__] -> UpstreamBridge has connected
+[19:47:43] [Netty Worker IO Thread #1/INFO]: [Benabram__|/172.31.128.1:42740] <-> ServerConnector [lobby] has connected
+[19:50:04] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:42740|Benabram__] -> UpstreamBridge has disconnected
+[19:50:04] [Netty Worker IO Thread #1/INFO]: [Benabram__] disconnected with: Proxy lost connection to server.
+[19:50:04] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:42740|Benabram__] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:53:56] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:57038|LillyPet0] -> UpstreamBridge has disconnected
+[19:53:56] [Netty Worker IO Thread #1/INFO]: [LillyPet0] disconnected with: Proxy lost connection to server.
+[19:53:56] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:57038|LillyPet0] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:54:00] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:56458]: Connected via websocket
+[19:54:00] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:56458]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[19:54:00] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:56458]: Logged in as 'LillyPet0'
+[19:54:00] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:56458|LillyPet0] -> UpstreamBridge has connected
+[19:54:00] [Netty Worker IO Thread #0/INFO]: [LillyPet0|/172.31.128.1:56458] <-> ServerConnector [lobby] has connected
+[19:54:52] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:40172|McCrafty_Chrome] -> UpstreamBridge has disconnected
+[19:54:52] [Netty Worker IO Thread #1/INFO]: [McCrafty_Chrome] disconnected with: Proxy lost connection to server.
+[19:54:52] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:40172|McCrafty_Chrome] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:56:32] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:54760]: Connected via websocket
+[19:56:32] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:54760]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[19:56:32] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:54760]: Logged in as 'garzaboi01'
+[19:56:32] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:54760|garzaboi01] -> UpstreamBridge has connected
+[19:56:32] [Netty Worker IO Thread #0/INFO]: [garzaboi01|/172.31.128.1:54760] <-> ServerConnector [lobby] has connected
+[19:57:07] [Netty Worker IO Thread #0/WARN]: [/172.31.128.1:54760|garzaboi01] -> UpstreamBridge - NativeIoException: recvAddress(..) failed: Connection reset by peer
+[19:57:07] [Netty Worker IO Thread #0/INFO]: [garzaboi01] disconnected with: NativeIoException : recvAddress(..) failed: Connection reset by peer
+[19:57:07] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:54760|garzaboi01] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:57:07] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:54760|garzaboi01] -> UpstreamBridge has disconnected
+[19:57:11] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:53096]: Connected via websocket
+[19:57:11] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:53096]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[19:57:11] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:53096]: Logged in as 'garzaboi01'
+[19:57:11] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:53096|garzaboi01] -> UpstreamBridge has connected
+[19:57:11] [Netty Worker IO Thread #1/INFO]: [garzaboi01|/172.31.128.1:53096] <-> ServerConnector [lobby] has connected
+[19:59:30] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:57412]: Connected via websocket
+[19:59:30] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:57412]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[19:59:30] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:57412]: Logged in as 'McCrafty_Chrome'
+[19:59:30] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:57412|McCrafty_Chrome] -> UpstreamBridge has connected
+[19:59:30] [Netty Worker IO Thread #0/INFO]: [McCrafty_Chrome|/172.31.128.1:57412] <-> ServerConnector [lobby] has connected
+[20:11:17] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:56458|LillyPet0] -> UpstreamBridge has disconnected
+[20:11:17] [Netty Worker IO Thread #0/INFO]: [LillyPet0] disconnected with: Proxy lost connection to server.
+[20:11:17] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:56458|LillyPet0] <-> DownstreamBridge <-> [lobby] has disconnected
+[20:14:11] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:48742]: Connected via websocket
+[20:14:11] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:48742]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[20:14:11] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:48742]: Logged in as 'bob'
+[20:14:11] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:48742|bob] -> UpstreamBridge has connected
+[20:14:11] [Netty Worker IO Thread #1/WARN]: Plugin listener net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.handlers.EaglerPacketEventListener took 136ms to process event PostLoginEvent(player=bob)!
+[20:14:11] [Netty Worker IO Thread #1/WARN]: Event LoginEvent(cancelled=false, cancelReasonComponents=null, loginResult=null, connection=[/172.31.128.1:48742|bob] <-> InitialHandler) took 268ms to process!
+[20:14:11] [Netty Worker IO Thread #1/WARN]: Event PreLoginEvent(cancelled=false, cancelReasonComponents=null, connection=[/172.31.128.1:48742|bob] <-> InitialHandler) took 293ms to process!
+[20:14:12] [Netty Worker IO Thread #1/INFO]: [bob|/172.31.128.1:48742] <-> ServerConnector [lobby] has connected
+[20:15:43] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:48742|bob] -> UpstreamBridge has disconnected
+[20:15:43] [Netty Worker IO Thread #1/INFO]: [bob] disconnected with: Proxy lost connection to server.
+[20:15:43] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:48742|bob] <-> DownstreamBridge <-> [lobby] has disconnected
+[20:17:08] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:53096|garzaboi01] -> UpstreamBridge has disconnected
+[20:17:09] [Netty Worker IO Thread #1/INFO]: [garzaboi01] disconnected with: Proxy lost connection to server.
+[20:17:09] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:53096|garzaboi01] <-> DownstreamBridge <-> [lobby] has disconnected
+[20:17:14] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:57412|McCrafty_Chrome] -> UpstreamBridge has disconnected
+[20:17:14] [Netty Worker IO Thread #0/INFO]: [McCrafty_Chrome] disconnected with: Proxy lost connection to server.
+[20:17:14] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:57412|McCrafty_Chrome] <-> DownstreamBridge <-> [lobby] has disconnected
+[20:18:30] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:57418]: Connected via websocket
+[20:18:30] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:57418]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[20:18:30] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:57418]: Logged in as 'garzaboi01'
+[20:18:30] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:57418|garzaboi01] -> UpstreamBridge has connected
+[20:18:30] [Netty Worker IO Thread #0/INFO]: [garzaboi01|/172.31.128.1:57418] <-> ServerConnector [lobby] has connected
+[20:19:13] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:48026]: Connected via websocket
+[20:19:13] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:48026]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[20:19:14] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:48026]: Logged in as 'McCrafty_Chrome'
+[20:19:14] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:48026|McCrafty_Chrome] -> UpstreamBridge has connected
+[20:19:14] [Netty Worker IO Thread #0/INFO]: [McCrafty_Chrome|/172.31.128.1:48026] <-> ServerConnector [lobby] has connected
+[20:19:23] [Netty Worker IO Thread #0/WARN]: Plugin listener net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.handlers.EaglerPacketEventListener took 224ms to process event PluginMessageEvent(super=TargetedEvent(sender=McCrafty_Chrome, receiver=net.md_5.bungee.ServerConnection@16a73c53), cancelled=true, tag=EAG|Skins-1.8)!
+[20:21:06] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:57418|garzaboi01] -> UpstreamBridge has disconnected
+[20:21:06] [Netty Worker IO Thread #0/INFO]: [garzaboi01] disconnected with: Proxy lost connection to server.
+[20:21:06] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:57418|garzaboi01] <-> DownstreamBridge <-> [lobby] has disconnected
+[20:23:26] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:48026|McCrafty_Chrome] -> UpstreamBridge has disconnected
+[20:23:26] [Netty Worker IO Thread #0/INFO]: [McCrafty_Chrome] disconnected with: Proxy lost connection to server.
+[20:23:26] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:48026|McCrafty_Chrome] <-> DownstreamBridge <-> [lobby] has disconnected
+[20:30:38] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:38874]: Connected via websocket
+[20:30:38] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:38874]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[20:30:40] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:38874]: Logged in as 'novsa'
+[20:30:40] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:38874|novsa] -> UpstreamBridge has connected
+[20:30:40] [Netty Worker IO Thread #0/INFO]: [novsa|/172.31.128.1:38874] <-> ServerConnector [lobby] has connected
+[20:32:10] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:38874|novsa] -> UpstreamBridge has disconnected
+[20:32:10] [Netty Worker IO Thread #0/INFO]: [novsa] disconnected with: Proxy lost connection to server.
+[20:32:10] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:38874|novsa] <-> DownstreamBridge <-> [lobby] has disconnected
+[20:33:24] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:56558]: Connected via websocket
+[20:33:24] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:56558]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[20:33:24] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:56558]: Logged in as 'garzaboi01'
+[20:33:25] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:56558|garzaboi01] -> UpstreamBridge has connected
+[20:33:25] [Netty Worker IO Thread #0/INFO]: [garzaboi01|/172.31.128.1:56558] <-> ServerConnector [lobby] has connected
+[20:39:17] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:56026]: Connected via websocket
+[20:39:17] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:56026]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[20:39:17] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:56026]: Logged in as 'McCrafty_Chrome'
+[20:39:17] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:56026|McCrafty_Chrome] -> UpstreamBridge has connected
+[20:39:17] [Netty Worker IO Thread #1/INFO]: [McCrafty_Chrome|/172.31.128.1:56026] <-> ServerConnector [lobby] has connected
+[20:39:27] [Netty Worker IO Thread #1/WARN]: Plugin listener net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.handlers.EaglerPacketEventListener took 350ms to process event PluginMessageEvent(super=TargetedEvent(sender=McCrafty_Chrome, receiver=net.md_5.bungee.ServerConnection@7ade6cd4), cancelled=true, tag=EAG|Skins-1.8)!
+[20:39:27] [Netty Worker IO Thread #1/WARN]: Event PluginMessageEvent(super=TargetedEvent(sender=McCrafty_Chrome, receiver=net.md_5.bungee.ServerConnection@7ade6cd4), cancelled=true, tag=EAG|Skins-1.8) took 350ms to process!
+[20:41:22] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:56026|McCrafty_Chrome] -> UpstreamBridge has disconnected
+[20:41:22] [Netty Worker IO Thread #1/INFO]: [McCrafty_Chrome] disconnected with: Proxy lost connection to server.
+[20:41:22] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:56026|McCrafty_Chrome] <-> DownstreamBridge <-> [lobby] has disconnected
+[20:41:49] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:55070]: Connected via websocket
+[20:41:49] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:55070]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[20:41:49] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:55070]: Logged in as 'Creeper'
+[20:41:49] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:55070|Creeper] -> UpstreamBridge has connected
+[20:41:49] [Netty Worker IO Thread #1/INFO]: [Creeper|/172.31.128.1:55070] <-> ServerConnector [lobby] has connected
+[20:42:16] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:37844]: Connected via websocket
+[20:42:16] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:37844]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[20:42:16] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:37844]: Logged in as 'McCrafty_Chrome'
+[20:42:16] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:37844|McCrafty_Chrome] -> UpstreamBridge has connected
+[20:42:16] [Netty Worker IO Thread #1/INFO]: [McCrafty_Chrome|/172.31.128.1:37844] <-> ServerConnector [lobby] has connected
+[20:42:34] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:56558|garzaboi01] -> UpstreamBridge has disconnected
+[20:42:34] [Netty Worker IO Thread #0/INFO]: [garzaboi01] disconnected with: Proxy lost connection to server.
+[20:42:34] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:56558|garzaboi01] <-> DownstreamBridge <-> [lobby] has disconnected
+[20:45:28] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:35420]: Connected via websocket
+[20:45:28] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:35420]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[20:45:29] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:35420]: Logged in as 'garzaboi01'
+[20:45:29] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:35420|garzaboi01] -> UpstreamBridge has connected
+[20:45:29] [Netty Worker IO Thread #1/INFO]: [garzaboi01|/172.31.128.1:35420] <-> ServerConnector [lobby] has connected
+[20:46:01] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:35420|garzaboi01] -> UpstreamBridge has disconnected
+[20:46:01] [Netty Worker IO Thread #1/INFO]: [garzaboi01] disconnected with: Proxy lost connection to server.
+[20:46:01] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:35420|garzaboi01] <-> DownstreamBridge <-> [lobby] has disconnected
+[20:47:32] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:40664]: Connected via websocket
+[20:47:32] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:40664]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[20:47:33] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:40664]: Logged in as 'garzaboi01'
+[20:47:33] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:40664|garzaboi01] -> UpstreamBridge has connected
+[20:47:33] [Netty Worker IO Thread #0/INFO]: [garzaboi01|/172.31.128.1:40664] <-> ServerConnector [lobby] has connected
+[20:49:12] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:40664|garzaboi01] -> UpstreamBridge has disconnected
+[20:49:12] [Netty Worker IO Thread #0/INFO]: [garzaboi01] disconnected with: Proxy lost connection to server.
+[20:49:12] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:40664|garzaboi01] <-> DownstreamBridge <-> [lobby] has disconnected
+[21:06:20] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:37844|McCrafty_Chrome] -> UpstreamBridge has disconnected
+[21:06:20] [Netty Worker IO Thread #1/INFO]: [McCrafty_Chrome] disconnected with: Proxy lost connection to server.
+[21:06:20] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:37844|McCrafty_Chrome] <-> DownstreamBridge <-> [lobby] has disconnected
+[21:07:12] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:55070|Creeper] -> UpstreamBridge has disconnected
+[21:07:12] [Netty Worker IO Thread #1/INFO]: [Creeper] disconnected with: Proxy lost connection to server.
+[21:07:12] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:55070|Creeper] <-> DownstreamBridge <-> [lobby] has disconnected
+[21:19:23] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:57242]: Connected via websocket
+[21:19:23] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:57242]: Origin header is https://salogenx-v2.novasgreat.repl.co
+[21:19:23] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:57242]: Logged in as 'monkey'
+[21:19:23] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:57242|monkey] -> UpstreamBridge has connected
+[21:19:23] [Netty Worker IO Thread #0/INFO]: [monkey|/172.31.128.1:57242] <-> ServerConnector [lobby] has connected
